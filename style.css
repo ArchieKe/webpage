@@ -32,12 +32,12 @@
 }
 
 .sidebar{
-	width:200px;
+	width:500px;
 	background:yellow;
 	min-height: 400px;
 	float: right;
     margin: 0 0 10px 10px;
-     font-size: 180%;
+     font-size: 200%;
 
 }
 
@@ -45,7 +45,7 @@
 	clear:both;
 	background:black;
 	height: 40px;
-	color: black;
+	color: white;
 	text-align: right;
 	padding:10px;
 }
